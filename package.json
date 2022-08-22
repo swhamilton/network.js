@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/nesk/network.js.git"
   },
+  "main": "dist/network.js",
   "keywords": [
     "network",
     "speedtest",
